@@ -49,3 +49,4 @@ RUN pip install wandb==0.12.11
 RUN pip install yaspin==2.1.0
 RUN pip install zipp==3.7.0
 RUN pip install pandas
+RUN pip install -U scikit-learn
